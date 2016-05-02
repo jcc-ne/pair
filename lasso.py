@@ -1,5 +1,5 @@
 from sklearn import linear_model
-from sklearn.linear_model import LassoCV
+from sklearn.linear_model import Lasso
 from sklearn.linear_model import LassoCV
 import pandas as pd
 
